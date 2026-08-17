@@ -1,0 +1,15 @@
+{
+  "input_directory": ".",
+  "output_pdf": "output.pdf",
+  "ocr_engine": "tesseract",
+  "font": "arial",
+  "max_content_length": 500,
+  "confidence_threshold": 0.0,
+  "temp_directory": "temp",
+  "available_engines": {
+    "tesseract": {
+      "enabled": true,
+      "path": "C:/Windows/System32/tesseract-ocr"
+    }
+  }
+}
